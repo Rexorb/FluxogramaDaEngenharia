@@ -1,0 +1,14 @@
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\bin\Debug\net9.0\FluxogramaDaEngenharia.exe
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\bin\Debug\net9.0\FluxogramaDaEngenharia.deps.json
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\bin\Debug\net9.0\FluxogramaDaEngenharia.runtimeconfig.json
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\bin\Debug\net9.0\FluxogramaDaEngenharia.dll
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\bin\Debug\net9.0\FluxogramaDaEngenharia.pdb
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\obj\Debug\net9.0\FluxogramaDaEngenharia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\obj\Debug\net9.0\FluxogramaDaEngenharia.AssemblyInfoInputs.cache
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\obj\Debug\net9.0\FluxogramaDaEngenharia.AssemblyInfo.cs
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\obj\Debug\net9.0\FluxogramaDaEngenharia.csproj.CoreCompileInputs.cache
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\obj\Debug\net9.0\FluxogramaDaEngenharia.dll
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\obj\Debug\net9.0\refint\FluxogramaDaEngenharia.dll
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\obj\Debug\net9.0\FluxogramaDaEngenharia.pdb
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\obj\Debug\net9.0\FluxogramaDaEngenharia.genruntimeconfig.cache
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\FluxogramaDaEngenharia\obj\Debug\net9.0\ref\FluxogramaDaEngenharia.dll
